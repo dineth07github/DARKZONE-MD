@@ -1,8 +1,8 @@
 {
-  "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/r2ncqh",
-  "keywords": ["DARKZONE-MD"],
+  "name": "𝔻𝕚𝕟𝕦 𝕄𝔻",
+  "description": "Javascript WhatsApp bot made by 𝔻𝕚𝕟𝕦 𝕄𝔻",
+  "logo": "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo",
+  "keywords": ["𝔻𝕚𝕟𝕦 𝕄𝔻"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐸𝑅𝐹𝒜𝒩"
+      "value": "𝔻𝕚𝕟𝕦 𝕄𝔻"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": ""
     },
     
     "MODE": {
@@ -47,7 +47,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -66,7 +66,7 @@
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DARKZONE-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝔻𝕚𝕟𝕦 𝕄𝔻 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "𝔻𝕚𝕟𝕦 𝕄𝔻"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "94785602293"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "𝔻𝕚𝕟𝕦 𝕄𝔻"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/4964gx.jpg"
+      "value": "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CRESTER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*𝒫𝑜𝓌𝑒𝓇𝒹 𝒷𝓎 © 𝒟𝒾𝓃𝓊 𝑀𝒟*"
     },
 
       "DELETE_LINKS": {
@@ -155,7 +155,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -180,7 +180,7 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
       "required": false,
-      "value": "inbox"
+      "value": "same"
     }, 
 
     "ADMIN_EVENTS": {
